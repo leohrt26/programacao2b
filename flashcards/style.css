@@ -1,3 +1,4 @@
+*
 body{
     background-color:aquamarine;
     color: black;
@@ -5,8 +6,8 @@ body{
 }
 
 footer{
-    background-color: black
-   color:aqua;
+    background-color: black;
+    color:aqua;
    position: fixed;
    bottom:0;
    width: 100%;
