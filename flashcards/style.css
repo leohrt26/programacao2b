@@ -1,9 +1,13 @@
 body{
-    background-color: rgba(red, green, blue, alpha);
+    background-color:aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer{
-    background-color:  rgba(red, green, blue, alpha);
-   color:rgb(0,0,0);
-   position:fixed:absolute
+    background-color: black
+   color:aqua;
+   position: fixed;
+   bottom:0;
+   width: 100%;
+   height: 2rem;
 }
