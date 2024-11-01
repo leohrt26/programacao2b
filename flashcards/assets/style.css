@@ -1,13 +1,13 @@
 *
 body{
-    background-color:aquamarine;
+    background-color:rgb(25, 0, 255);
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer{
     background-color: black;
-    color:aqua;
+    color:rgb(0, 81, 255);
    position: fixed;
    bottom:0;
    width: 100%;
@@ -31,6 +31,17 @@ body {
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: aqua
+    background-color: rgb(89, 0, 255)
     height: 20rem;
+    
+}
+
+.cartao__conteudo h3 {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
